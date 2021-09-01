@@ -67,7 +67,7 @@ body{
 @media (min-width:576px){
     body{
         overflow-y:hidden;
-        padding:5em;
+        padding:6em;
     }
     .card-container{
         margin: 0 auto;
